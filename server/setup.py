@@ -7,7 +7,7 @@ import argparse
 
 originalApiServer = 'app.pritunl.com'
 originalAuthServer = 'auth.pritunl.com'
-defaultApiServer = 'pritunl-api.simonmicro.de'
+defaultApiServer = 'ptunapi.server.amang.in'
 searchIn = [*glob.glob('/usr/lib/python3*'), '/usr/lib/pritunl/', '/usr/share/pritunl/www/', '/usr/lib/pritunl/', '/usr/share/pritunl/www/']
 
 print("  ____       _ _               _   _____     _             _    ____ ___ ")
